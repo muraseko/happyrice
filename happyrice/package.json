@@ -6,9 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "vercel-build": "npm run build"
-
+    "vercel-build": "next build"
   },
   "dependencies": {
     "next": "^15.3.3",
